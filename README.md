@@ -1,2 +1,2 @@
-# Urrevs_ML
-Graduation project repository for machine learning
+# Graduation-Project
+Repo for graduation project
